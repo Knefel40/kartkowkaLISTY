@@ -51,7 +51,7 @@
 
 
 
-
+SKRYPT
 
 
 using System;
@@ -105,7 +105,7 @@ namespace kartkowkalisty
 
 
 
-
+KLASA SAMOCHODY
 
 
 using System;
